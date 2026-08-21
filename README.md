@@ -1,4 +1,6 @@
 # Lernperiode-1
+28.8 bis ?
+
 Grob-Planung
 Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 Was wäre ein geeignetes Projekt für diese LP1?
