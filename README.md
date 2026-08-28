@@ -2,3 +2,21 @@
 
 ## Idee
 Ein Programm, das mir regelmässig Fragen zu meinem Tag stellt (z. B. wie es mir geht, was ich erlebt habe) und darauf jeweils eine passende, individuelle Antwort formuliert.
+
+# Lernjournal – C# Ratespiel
+
+**28.08.2026** | Projekt: Ratespiel
+
+## Heute
+
+Erst das klassische Ratespiel, dann umgedreht: Der Computer rät, ich antworte mit tiefer / höher / richtig. Läuft bisher nur eine Runde, ohne Schleife.
+
+**Status:** noch nicht fertig – wird nächstes Mal weitergeführt.
+
+## Nächstes Mal
+
+Weiterarbeiten an "Ratespiel umgedreht":
+
+- [ ] Vergleichstexte klein schreiben, dann testen
+- [ ] Schleife einbauen, damit der Computer weiterrät bis ich "richtig" sage
+- [ ] Min und max einbauen, damit der Computer clever rät statt blind
