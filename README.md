@@ -23,7 +23,7 @@ Weiterarbeiten an "Ratespiel umgedreht":
 
 **04.09.2026** | Projekt: Ratespiel
 
-Weitergemacht am umgedrehten Ratespiel: Schleife und min/max fürs clevere Raten eingebaut sowie zwei Bugs behoben (kaputte namespace-Zeile, Endlosschleife).
+Weitergemacht am umgedrehten Ratespiel: Schleife und zwei Bugs behoben (kaputte namespace-Zeile, Endlosschleife).
 
 **Status:** fertig – alle drei Punkte von letztem Mal sind erledigt.
 
