@@ -21,7 +21,7 @@ Weiterarbeiten an "Ratespiel umgedreht":
 - [ ] Schleife einbauen, damit der Computer weiterrät bis ich "richtig" sage
 - [ ] Min und max einbauen, damit der Computer clever rät statt blind
 
-##**04.09.2026** | Projekt: Ratespiel
+## 04.09.2026 | Projekt: Ratespiel
 
 Weitergemacht am umgedrehten Ratespiel: Schleife und zwei Bugs behoben (kaputte namespace-Zeile, Endlosschleife).
 
