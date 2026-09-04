@@ -7,25 +7,36 @@ namespace Ratespiel_umgedreht
         static void Main(string[] args)
         {
             Random rnd = new Random();
-            int tipp = rnd.Next(1, 101);
-            Console.WriteLine($"Ist es {tipp}?");
-            string antwort = Console.ReadLine();
-           
-            if (antwort.ToLower().Contains("tiefer"))
-            {
-                Console.WriteLine("Okay, tiefer.");
-            }
-            else if (antwort.ToLower().Contains("höher"))
-            {
-                Console.WriteLine("Okay, höher.");
-            }
-            else if (antwort.ToLower().Contains("richtig"))
-            {
-                Console.WriteLine("Ich hab's!");
-            }
-            else
-                Console.WriteLine("Das hab ich nicht verstanden!");
-        }  
+            int min = 1;
+            int max = 100;
+            string antwort;
 
+            do
+            {
+                int tipp = rnd.Next(min, max + 1);
+                Console.WriteLine($"Ist es {tipp}?");
+                antwort = Console.ReadLine().ToLower();
+
+                if (antwort.Contains("tiefer"))
+                {
+                    Console.WriteLine("Okay, tiefer.");
+                    max = tipp - 1;
+                }
+                else if (antwort.Contains("höher"))
+                {
+                    Console.WriteLine("Okay, höher.");
+                    min = tipp + 1;
+                }
+                else if (antwort.Contains("richtig"))
+                {
+                    Console.WriteLine("Ich hab's!");
+                }
+                else
+                {
+                    Console.WriteLine("Das hab ich nicht verstanden!");
+                }
+
+            } while (!antwort.Contains("richtig"));
+        }
     }
 }
