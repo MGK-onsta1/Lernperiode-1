@@ -17,9 +17,9 @@ Erst das klassische Ratespiel, dann umgedreht: Der Computer rät, ich antworte m
 
 Weiterarbeiten an "Ratespiel umgedreht":
 
-- [ ] Vergleichstexte klein schreiben, dann testen
-- [ ] Schleife einbauen, damit der Computer weiterrät bis ich "richtig" sage
-- [ ] Min und max einbauen, damit der Computer clever rät statt blind
+- [x] Vergleichstexte klein schreiben, dann testen
+- [x] Schleife einbauen, damit der Computer weiterrät bis ich "richtig" sage
+- [x] Min und max einbauen, damit der Computer clever rät statt blind
 
 ## 04.09.2026 | Projekt: Ratespiel
 
@@ -29,7 +29,7 @@ Weitergemacht am umgedrehten Ratespiel: Schleife und zwei Bugs behoben (kaputte 
 
 ## Nächstes Mal
 
-- [ ] Versuche zählen und am Ende ausgeben, in wie vielen Versuchen der Computer die Zahl erraten hat
+- [x] Versuche zählen und am Ende ausgeben, in wie vielen Versuchen der Computer die Zahl erraten hat
 
 ## 11.09.2026| Projekt: Ratespiel
 
@@ -38,5 +38,5 @@ Weiterarbeiten an "Ratespiel umgedreht":
 Versuchszähler ins umgedrehte Ratespiel eingebaut: neue Variable versuche, die bei jedem Rateversuch des Computers hochgezählt und nach Ende der Schleife ausgegeben wird. Zusätzlich String-Interpolation ($"...") im Detail verstanden.
 
 **Status**: fertig – Versuchszähler funktioniert.
-Nächstes Mal
-(noch offen)
+
+Nächstes Mal: Nächstes mal viel ich anfangen einen Rechner zu programmieren.
