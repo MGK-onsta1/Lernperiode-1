@@ -3,11 +3,11 @@
 ## Idee
 Ein Programm, das mir regelmässig Fragen zu meinem Tag stellt (z. B. wie es mir geht, was ich erlebt habe) und darauf jeweils eine passende, individuelle Antwort formuliert.
 
-# Lernjournal – Ratespiel
+## Lernjournal – Ratespiel
 
-**28.08.2026** | Projekt: Ratespiel
+# 28.08.2026 | Projekt: Ratespiel
 
-# Heute
+## Heute
 
 Erst das klassische Ratespiel, dann umgedreht: Der Computer rät, ich antworte mit tiefer / höher / richtig. Läuft bisher nur eine Runde, ohne Schleife.
 
@@ -31,7 +31,7 @@ Weitergemacht am umgedrehten Ratespiel: Schleife und zwei Bugs behoben (kaputte 
 
 - [x] Versuche zählen und am Ende ausgeben, in wie vielen Versuchen der Computer die Zahl erraten hat
 
-## 11.09.2026| Projekt: Ratespiel
+# 11.09.2026| Projekt: Ratespiel
 
 Weiterarbeiten an "Ratespiel umgedreht":
 
@@ -39,11 +39,11 @@ Versuchszähler ins umgedrehte Ratespiel eingebaut: neue Variable versuche, die 
 
 **Status**: fertig – Versuchszähler funktioniert.
 
-# Heute
+## Heute
 
 Heute Ratespiel-Versuchszähler fertiggestellt, Lernjournal für GitHub zusammengestellt, gelernt wie man alte Dateien auf GitHub löscht, als nächstes Projekt den Rechner gewählt und dafür Ziele plus PAP erstellt.
 
-# Nächstes Mal 
+## Nächstes Mal 
 
 Nächstes mal viel ich anfangen einen Rechner zu programmieren.
 
