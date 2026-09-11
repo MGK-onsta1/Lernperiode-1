@@ -40,3 +40,8 @@ Versuchszähler ins umgedrehte Ratespiel eingebaut: neue Variable versuche, die 
 **Status**: fertig – Versuchszähler funktioniert.
 
 Nächstes Mal: Nächstes mal viel ich anfangen einen Rechner zu programmieren.
+- [ ] Zwei Zahlen einlesen
+- [ ] Operator einlesen (+, -, *, /)
+- [ ]  Mit if/else oder switch je nach Operator rechnen
+- [ ]  rgebnis ausgeben
+- [ ] Schleife einbauen, damit man mehrmals rechnen kann (optional)
