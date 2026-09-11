@@ -38,6 +38,8 @@ Weiterarbeiten an "Ratespiel umgedreht":
 Versuchszähler ins umgedrehte Ratespiel eingebaut: neue Variable versuche, die bei jedem Rateversuch des Computers hochgezählt und nach Ende der Schleife ausgegeben wird. Zusätzlich String-Interpolation ($"...") im Detail verstanden.
 
 **Status**: fertig – Versuchszähler funktioniert.
+## Heute
+Heute Ratespiel-Versuchszähler fertiggestellt, Lernjournal für GitHub zusammengestellt, gelernt wie man alte Dateien auf GitHub löscht, als nächstes Projekt den Rechner gewählt und dafür Ziele plus PAP erstellt.
 
 Nächstes Mal: Nächstes mal viel ich anfangen einen Rechner zu programmieren.
 - [ ] Zwei Zahlen einlesen
