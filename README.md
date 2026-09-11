@@ -21,13 +21,13 @@ Weiterarbeiten an "Ratespiel umgedreht":
 - [x] Schleife einbauen, damit der Computer weiterrät bis ich "richtig" sage
 - [x] Min und max einbauen, damit der Computer clever rät statt blind
 
-## 04.09.2026 | Projekt: Ratespiel
+# 04.09.2026 | Projekt: Ratespiel
 
 Weitergemacht am umgedrehten Ratespiel: Schleife und zwei Bugs behoben (kaputte namespace-Zeile, Endlosschleife).
 
 **Status:** fertig – alle drei Punkte von letztem Mal sind erledigt.
 
-# Nächstes Mal
+## Nächstes Mal
 
 - [x] Versuche zählen und am Ende ausgeben, in wie vielen Versuchen der Computer die Zahl erraten hat
 
