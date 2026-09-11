@@ -31,12 +31,12 @@ Weitergemacht am umgedrehten Ratespiel: Schleife und zwei Bugs behoben (kaputte 
 
 - [ ] Versuche zählen und am Ende ausgeben, in wie vielen Versuchen der Computer die Zahl erraten hat
 
-**11.09.2026**| Projekt: Ratespiel
+## 11.09.2026| Projekt: Ratespiel
 
 Weiterarbeiten an "Ratespiel umgedreht":
 
 Versuchszähler ins umgedrehte Ratespiel eingebaut: neue Variable versuche, die bei jedem Rateversuch des Computers hochgezählt und nach Ende der Schleife ausgegeben wird. Zusätzlich String-Interpolation ($"...") im Detail verstanden.
 
-Status: fertig – Versuchszähler funktioniert.
+**Status**: fertig – Versuchszähler funktioniert.
 Nächstes Mal
 (noch offen)
