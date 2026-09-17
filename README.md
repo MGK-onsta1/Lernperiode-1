@@ -47,8 +47,8 @@ Heute Ratespiel-Versuchszähler fertiggestellt, Lernjournal für GitHub zusammen
 
 Nächstes mal viel ich anfangen einen Rechner zu programmieren.
 
-- [ ] Zwei Zahlen einlesen
-- [ ] Operator einlesen (+, -, *, /)
-- [ ]  Mit if/else oder switch je nach Operator rechnen
-- [ ]  rgebnis ausgeben
-- [ ] Schleife einbauen, damit man mehrmals rechnen kann (optional)
+- [x] Zwei Zahlen einlesen
+- [x] Operator einlesen (+, -, *, /)
+- [x]  Mit if/else oder switch je nach Operator rechnen
+- [x]  rgebnis ausgeben
+- [x] Schleife einbauen, damit man mehrmals rechnen kann (optional)
