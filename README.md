@@ -65,3 +65,15 @@ Rechner-Code testen und bei Bedarf um Fehlerabfang (z. B. Division durch 0 oder 
 Das Programm fragt dich nach zwei Zahlen und einem Rechenzeichen (wie plus oder minus). Es rechnet das Ergebnis aus und zeigt es dir an. Danach kannst du direkt die nächste Rechnung starten.
 
 <img width="428" height="484" alt="image" src="https://github.com/user-attachments/assets/8133d0b4-6e35-4e6a-b993-53f0c6ec0294" />
+
+# 18.09.2026 | Projekt: Rechner
+
+**Status**: fertig
+
+## Heute
+Taschenrechner-Projekt komplett fertig programmiert: Eingabe von zwei Zahlen und Operator umgesetzt, Berechnung via if/else gelöst und eine while-Schleife für mehrere Durchgänge eingebaut.
+
+
+
+
+
