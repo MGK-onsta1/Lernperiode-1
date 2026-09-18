@@ -63,4 +63,5 @@ Heute das Ratespiel beendet, GitHub-Dateien aufgeräumt und Ziele mit PAP erstel
 
 Rechner-Code testen und bei Bedarf um Fehlerabfang (z. B. Division durch 0 oder ungültige Eingaben) erweitern
 Das Programm fragt dich nach zwei Zahlen und einem Rechenzeichen (wie plus oder minus). Es rechnet das Ergebnis aus und zeigt es dir an. Danach kannst du direkt die nächste Rechnung starten.
+
 <img width="428" height="484" alt="image" src="https://github.com/user-attachments/assets/8133d0b4-6e35-4e6a-b993-53f0c6ec0294" />
