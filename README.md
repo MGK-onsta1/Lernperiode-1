@@ -81,6 +81,6 @@ Taschenrechner-Projekt komplett fertig programmiert: Eingabe von zwei Zahlen und
 
 Ich habe zuerst das klassische und das umgedrehte Ratespiel mit Schleife, Min/Max-Logik und Versuchszähler programmiert. Danach habe ich mein GitHub-Repository aufgeräumt, mein Lernjournal gepflegt sowie Ziele und einen Programmablaufplan (PAP) gezeichnet. Anschliessend habe ich den C#-Taschenrechner mit Zahleneingabe, if/else-Logik und Wiederholungs-Schleife komplett fertiggestellt.   
 
-## Reflexion
+# Reflexion
 
 Ich habe sehr zielgerichtet und strukturiert gearbeitet. Ich habe alte Aufgaben sauber beendet, bevor ich Neues begonnen habe, und durch die genaue Vorbereitung mit dem Ablaufplan konnte ich den Taschenrechner ohne Blockaden direkt in einem Zug durchprogrammieren.   
