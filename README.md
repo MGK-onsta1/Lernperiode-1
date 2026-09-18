@@ -30,6 +30,8 @@ Weitergemacht am umgedrehten Ratespiel: Schleife und zwei Bugs behoben (kaputte 
 ## Nächstes Mal
 
 - [x] Versuche zählen und am Ende ausgeben, in wie vielen Versuchen der Computer die Zahl erraten hat
+Der Computer denkt sich eine zufällige Zahl aus. Du versuchst, die Zahl zu erraten, und der Computer sagt dir nach jedem Versuch, ob deine Zahl zu hoch oder zu tief ist.
+<img width="458" height="318" alt="image" src="https://github.com/user-attachments/assets/119ad7b5-c103-4478-a0ad-d8039ebbfa2a" />
 
 # 11.09.2026| Projekt: Ratespiel
 
@@ -38,6 +40,8 @@ Weiterarbeiten an "Ratespiel umgedreht":
 Versuchszähler ins umgedrehte Ratespiel eingebaut: neue Variable versuche, die bei jedem Rateversuch des Computers hochgezählt und nach Ende der Schleife ausgegeben wird. Zusätzlich String-Interpolation ($"...") im Detail verstanden.
 
 **Status**: fertig – Versuchszähler funktioniert.
+Der Computer versucht, eine von dir ausgedachte Zahl zu erraten. Du sagst ihm nach jedem Versuch, ob seine Zahl zu hoch, zu tief oder richtig ist. Das Programm merkt sich die Versuche und zählt am Ende mit, wie viele Anläufe der Computer gebraucht hat.
+<img width="434" height="485" alt="image" src="https://github.com/user-attachments/assets/00ca039f-1dda-4ccd-9044-b050296e2893" />
 
 ## Heute
 
@@ -58,3 +62,5 @@ Heute das Ratespiel beendet, GitHub-Dateien aufgeräumt und Ziele mit PAP erstel
 ## Nächstes Mal
 
 Rechner-Code testen und bei Bedarf um Fehlerabfang (z. B. Division durch 0 oder ungültige Eingaben) erweitern
+Das Programm fragt dich nach zwei Zahlen und einem Rechenzeichen (wie plus oder minus). Es rechnet das Ergebnis aus und zeigt es dir an. Danach kannst du direkt die nächste Rechnung starten.
+<img width="428" height="484" alt="image" src="https://github.com/user-attachments/assets/8133d0b4-6e35-4e6a-b993-53f0c6ec0294" />
