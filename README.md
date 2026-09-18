@@ -52,3 +52,5 @@ Nächstes mal viel ich anfangen einen Rechner zu programmieren.
 - [x]  Mit if/else oder switch je nach Operator rechnen
 - [x]  rgebnis ausgeben
 - [x] Schleife einbauen, damit man mehrmals rechnen kann (optional)
+
+Heute das Ratespiel beendet, GitHub-Dateien aufgeräumt und Ziele mit PAP erstellt. Anschließend einen C#-Taschenrechner mit Zahleneingabe, if/else-Logik, Ergebnisausgabe und Wiederholungs-Schleife programmiert.
