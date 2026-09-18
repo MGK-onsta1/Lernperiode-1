@@ -54,3 +54,7 @@ Nächstes mal viel ich anfangen einen Rechner zu programmieren.
 - [x] Schleife einbauen, damit man mehrmals rechnen kann (optional)
 
 Heute das Ratespiel beendet, GitHub-Dateien aufgeräumt und Ziele mit PAP erstellt. Anschließend einen C#-Taschenrechner mit Zahleneingabe, if/else-Logik, Ergebnisausgabe und Wiederholungs-Schleife programmiert.
+
+## Nächstes Mal
+
+Rechner-Code testen und bei Bedarf um Fehlerabfang (z. B. Division durch 0 oder ungültige Eingaben) erweitern
